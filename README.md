@@ -1,6 +1,6 @@
-# StudyBud
+# Study Room App
 
-StudyBud is an online web application designed to facilitate student collaboration. It allows students to create profiles, create rooms, and have discussions, making it an ideal platform for study groups, project collaborations, and peer support.
+This is an online web application designed to facilitate student collaboration. It allows students to create profiles, create rooms, and have discussions, making it an ideal platform for study groups, project collaborations, and peer support.
 
 # How to get started
 ## Clone the repository
